@@ -12,7 +12,15 @@ You can download the RAZORS NFT and BLADE Token Whitepaper [RAZORS NFT and BLADE
 
 
 ## Contact
-For inquiries, reach out to the RAZORS team via [insert contact info, e.g., website, email, or social media].
+
+For inquiries, support, or collaboration, reach out to the Razors NFT team:
+
+- **X**: Follow and DM us at [@razorsnft](https://x.com/razorsnft)
+- **Telegram**: Join our community: https://t.me/RazorsNFT
+- **PaintSwap**: Buy and Sell NFTs on PaintSwap: https://paintswap.io/sonic/collections/razors/listings
+- **Staking**: Stake your RAZORS NFTs Via Krown Labs: TBD
+
+We’re excited to connect with our community and answer any questions about the RAZORS NFT and BLADE Token ecosystem!
 
 ## License
 [Optional: Specify a license, e.g., "This whitepaper is shared under the Creative Commons Attribution 4.0 International License."]
