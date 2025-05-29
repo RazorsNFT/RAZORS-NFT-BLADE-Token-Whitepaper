@@ -23,4 +23,5 @@ For inquiries, support, or collaboration, reach out to the Razors NFT team:
 We’re excited to connect with our community and answer any questions about the RAZORS NFT and BLADE Token ecosystem!
 
 ## License
-[Optional: Specify a license, e.g., "This whitepaper is shared under the Creative Commons Attribution 4.0 International License."]
+
+The RAZORS-NFT-BLADE-Token Whitepaper is licensed under CC BY 4.0. Smart contracts in this repository are licensed under the MIT License. NFT artwork and associated metadata are the intellectual property of RazorsNFT and may not be used without permission unless explicitly granted to token holders.
