@@ -8,7 +8,8 @@ The RAZORS NFT collection consists of 500 unique NFTs on the Sonic blockchain, p
 ## Whitepaper
 ## Download Whitepaper
 
-Documentation [RAZORS NFT and BLADE Token Whitepaper .pdf](https://github.com/user-attachments/files/20493474/RAZORS.NFT.and.BLADE.Token.Whitepaper.pdf)
+Documentation [RAZORS NFT and BLADE Token Whitepaper.pdf](https://github.com/user-attachments/files/20543131/RAZORS.NFT.and.BLADE.Token.Whitepaper.FINAL.pdf)
+
 
 
 ## Contact
