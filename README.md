@@ -20,7 +20,7 @@ For inquiries, support, or collaboration, reach out to the Razors NFT team:
 - **X**: Follow and DM us at [@razorsnft](https://x.com/razorsnft)
 - **Telegram**: https://t.me/RazorsNFT
 - **PaintSwap**: https://paintswap.io/sonic/collections/razors/listings
-- **Staking**: Stake your RAZORS NFTs Via Krown Labs: TBD
+- **Staking**: Stake your RAZORS NFTs Via Krown Labs: https://stake.krownlabs.app/pools/razors
 
 We’re excited to connect with our community and answer any questions about the RAZORS NFT and BLADE Token ecosystem!
 
